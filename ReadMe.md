@@ -8,7 +8,7 @@
 
 Yo... You are done with uploading your static HTML website to heroku for free.
 
-But before that you need to [create heroku account](https://signup.heroku.com/)  and login using following command.
+But before that you need to [create heroku account](https://signup.heroku.com/), [install heroku cli](https://devcenter.heroku.com/articles/heroku-cli)  and login using following command.
 ```
 heroku login
 ```
